@@ -11,3 +11,6 @@ Exercise 2 - Creating a repo on github, learning more about markdown
 •Above the file’s content, click edit.
 
 •On the Edit file tab, create the sample README file that is similar to this file, the aim is to practiceworking with the markdown document so please esnure that your file is looking similar to the pdf fileNote: you can use this online markdown editor website to practice rendering markdownfiles.
+
+
+making changes
